@@ -41,7 +41,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
@@ -52,5 +52,5 @@ jobs:
       run: |
         curl -X POST https://api.github.com/repos/jjzajdel/site/dispatches
         -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.token}}" \
+        -H "Authorization: token ${{secrets.TOKEN}}" \
         --data '{"event_type": "rebuild-staging"}'
