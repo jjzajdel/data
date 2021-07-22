@@ -1,0 +1,61 @@
+﻿Year,Emissions_Category,Value
+2016,Car,10.5
+2016,Electricity,5.3
+2016,Natural_Gas,3.1
+2016,Industrial,2.1
+2016,Trucks,1.8
+2016,Other,1.1
+2016,Off-Road ,0.62
+2016,Solid_Waste,0.59
+2016,Water,0.24
+2016,Aviation,0.21
+2016,Rail,0.11
+2016,Wastewater,0.07
+2016,Agriculture,0.05
+2016,Marine ,0.05
+2016,Soil ,0.05
+2025,Car,8
+2025,Electricity,3.4
+2025,Natural_Gas,3.3
+2025,Industrial,2.2
+2025,Trucks,1.7
+2025,Other,1.4
+2025,Off-Road ,0.72
+2025,Solid_Waste,0.62
+2025,Water,0.28
+2025,Aviation,0.29
+2025,Rail,0.17
+2025,Wastewater,0.08
+2025,Agriculture,0.06
+2025,Marine ,0.06
+2025,Soil ,0.04
+2030,Car,7.4
+2030,Electricity,1.9
+2030,Natural_Gas,3.4
+2030,Industrial,2.3
+2030,Trucks,1.7
+2030,Other,1.5
+2030,Off-Road ,0.83
+2030,Solid_Waste,0.65
+2030,Water,0.15
+2030,Aviation,0.34
+2030,Rail,0.19
+2030,Wastewater,0.08
+2030,Agriculture,0.06
+2030,Marine ,0.06
+2030,Soil ,0.04
+2035,Car,6.5
+2035,Electricity,1.3
+2035,Natural_Gas,3.4
+2035,Industrial,2.4
+2035,Trucks,1.7
+2035,Other,1.5
+2035,Off-Road ,0.83
+2035,Solid_Waste,0.65
+2035,Water,0.15
+2035,Aviation,0.34
+2035,Rail,0.19
+2035,Wastewater,0.08
+2035,Agriculture,0.06
+2035,Marine ,0.06
+2035,Soil ,0.04
