@@ -39,6 +39,55 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "13-2-2/data.csv",
+      "name": "13-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Emissions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture",
+                "Aviation",
+                "Car",
+                "Electricity",
+                "Gas",
+                "Industrial",
+                "Marine",
+                "Other",
+                "Rail",
+                "Road",
+                "Soil",
+                "Trucks",
+                "Waste",
+                "Wastewater",
+                "Water"
+              ]
+            },
+            "title": "Emissions"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Total greenhouse gas emissions per year"
+    },
+    {
       "path": "15-3-1-a/data.csv",
       "name": "15-3-1-a",
       "profile": "tabular-data-resource",
