@@ -11,13 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "Emissions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture",
+                "Aviation",
+                "Car",
+                "Electricity",
+                "Gas",
+                "Industrial",
+                "Marine",
+                "Other",
+                "Rail",
+                "Road",
+                "Soil",
+                "Trucks",
+                "Waste",
+                "Wastewater",
+                "Water"
+              ]
+            },
+            "title": "Emissions"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

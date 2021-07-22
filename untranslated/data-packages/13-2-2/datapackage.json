@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Emissions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Car",
+                "Electricity",
+                "Gas",
+                "Industrial",
+                "Trucks",
+                "Other",
+                "Road",
+                "Waste",
+                "Water",
+                "Aviation",
+                "Rail",
+                "Wastewater",
+                "Agriculture",
+                "Marine",
+                "Soil",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
