@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: 'Test'
-embedded_feature_html: <iframe width="300" height="150" title="Proportion in Poverty in San Diego" src="https://sandag-sdg.github.io/Indicator_1_1_3/#9/32.8346/-116.8781" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_html: <iframe width="200" height="400" title="Proportion in Poverty in San Diego" src="https://sandag-sdg.github.io/Indicator_1_1_3/#9/32.8346/-116.8781" frameborder="0" allowFullScreen="true"></iframe>
 embedded_feature_tab_title: 'Map'
 embedded_feature_title: 'Map Test'
 embedded_feature_url: ''
