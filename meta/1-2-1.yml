@@ -9,11 +9,9 @@ SDG_SERIES_DESCR: >-
 META_LAST_UPDATE: >- 
   9/15/2021
 CONTACT_ORGANISATION: >- 
-  SANDAG
 CONTACT_NAME: >- 
-  Joshua Zajdel Analytics and Policy Intern
+
 CONTACT_PHONE: >- 
-  619-699-7315
   
 CONTACT_EMAIL: >-
   jzaj@sandag.org
@@ -24,8 +22,10 @@ STAT_CONC_DEF: >-
     in cases where a separate, rural poverty line is used, the rural poverty line). Urban poverty rate is the
     percentage of the urban population living below the national poverty line (or in cases where a separate,
     urban poverty line is used, the urban poverty line)
+    
   ## Concepts:
-  **Poverty Line:** Threshold below which individuals
+  
+  Poverty Line: Threshold below which individuals
   in the reference population are considered poor and above which they are
   considered non-poor. The threshold is generally defined as the per-capita
   monetary requirements an individual needs to afford the purchase of a basic
@@ -53,6 +53,5 @@ QUALITY_MGMNT: >-
 QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 COVERAGE: >-
-  County of San Diego
 COMPARABILITY: >-
 OTHER_DOC: >-
