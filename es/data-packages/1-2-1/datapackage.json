@@ -12,8 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Demographic Characteristics  ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                "White",
+                "Black or African American",
+                "American Indian and Alaska Native",
+                "Asian",
+                "Native Hawaiian and Other Pacific Islander",
+                "Some other race",
+                "Two or more races",
+                "Hispanic or Latino origin (of any race)",
+                "White , not Hispanic or Latino",
+                ""
+              ]
+            },
+            "title": "Demographic Characteristics  "
           },
           {
             "name": "Value",

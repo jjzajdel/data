@@ -39,6 +39,52 @@
       "title": "15-3-1-a"
     },
     {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Demographic Characteristics  ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "American Indian and Alaska Native",
+                "Asian",
+                "Black or African American",
+                "Female",
+                "Hispanic or Latino origin (of any race)",
+                "Male",
+                "Native Hawaiian and Other Pacific Islander",
+                "Some other race",
+                "Total",
+                "Two or more races",
+                "White",
+                "White , not Hispanic or Latino"
+              ]
+            },
+            "title": "Demographic Characteristics  "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of population living below the national poverty line, by sex and age"
+    },
+    {
       "path": "13-2-2/data.csv",
       "name": "13-2-2",
       "profile": "tabular-data-resource",
@@ -2498,30 +2544,6 @@
         ]
       },
       "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
-    },
-    {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
       "path": "11-a-1/data.csv",

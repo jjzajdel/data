@@ -1,1 +1,97 @@
-Year,Value
+Year,Demographic Characteristics  ,Value
+2012,Total,0.138609701
+2013,Total,0.144456496
+2014,Total,0.146933259
+2015,Total,0.144717347
+2016,Total,0.139958343
+2017,Total,0.133316621
+2018,Total,0.1251561
+2019,Total,0.115878682
+2012,Male,0.130321815
+2013,Male,0.136572906
+2014,Male,0.13850275
+2015,Male,0.135175037
+2016,Male,0.131115819
+2017,Male,0.124306115
+2018,Male,0.115776705
+2019,Male,0.107204603
+2012,Female,0.146763706
+2013,Female,0.152224876
+2014,Female,0.155237521
+2015,Female,0.154126799
+2016,Female,0.148689053
+2017,Female,0.142233513
+2018,Female,0.134441697
+2019,Female,0.124473254
+2012,White,0.130925127
+2013,White,0.136146257
+2014,White,0.137934665
+2015,White,0.137366092
+2016,White,0.132309906
+2017,White,0.125661279
+2018,White,0.117609081
+2019,White,0.109544912
+2012,Black or African American,0.204743969
+2013,Black or African American,0.208568509
+2014,Black or African American,0.211928674
+2015,Black or African American,0.204031801
+2016,Black or African American,0.200753085
+2017,Black or African American,0.199486684
+2018,Black or African American,0.195332237
+2019,Black or African American,0.189092214
+2012,American Indian and Alaska Native,0.207532704
+2013,American Indian and Alaska Native,0.192374101
+2014,American Indian and Alaska Native,0.185394352
+2015,American Indian and Alaska Native,0.186993076
+2016,American Indian and Alaska Native,0.201684333
+2017,American Indian and Alaska Native,0.203853047
+2018,American Indian and Alaska Native,0.171648121
+2019,American Indian and Alaska Native,0.165072437
+2012,Asian,0.108079555
+2013,Asian,0.110235922
+2014,Asian,0.111829452
+2015,Asian,0.110557078
+2016,Asian,0.106719708
+2017,Asian,0.102663289
+2018,Asian,0.10241134
+2019,Asian,0.099570791
+2012,Native Hawaiian and Other Pacific Islander,0.130136502
+2013,Native Hawaiian and Other Pacific Islander,0.149765325
+2014,Native Hawaiian and Other Pacific Islander,0.167466858
+2015,Native Hawaiian and Other Pacific Islander,0.141356737
+2016,Native Hawaiian and Other Pacific Islander,0.145964234
+2017,Native Hawaiian and Other Pacific Islander,0.128978346
+2018,Native Hawaiian and Other Pacific Islander,0.104029087
+2019,Native Hawaiian and Other Pacific Islander,0.13660547
+2012,Some other race,0.2241818
+2013,Some other race,0.241844179
+2014,Some other race,0.250105755
+2015,Some other race,0.237567103
+2016,Some other race,0.23086165
+2017,Some other race,0.215446433
+2018,Some other race,0.196717938
+2019,Some other race,0.165093481
+2012,Two or more races,0.128475376
+2013,Two or more races,0.141437282
+2014,Two or more races,0.144213143
+2015,Two or more races,0.139853448
+2016,Two or more races,0.142725088
+2017,Two or more races,0.138045521
+2018,Two or more races,0.125711804
+2019,Two or more races,0.107952591
+2012,Hispanic or Latino origin (of any race),0.201338617
+2013,Hispanic or Latino origin (of any race),0.205014968
+2014,Hispanic or Latino origin (of any race),0.205816273
+2015,Hispanic or Latino origin (of any race),0.202337645
+2016,Hispanic or Latino origin (of any race),0.196340408
+2017,Hispanic or Latino origin (of any race),0.18662485
+2018,Hispanic or Latino origin (of any race),0.174078867
+2019,Hispanic or Latino origin (of any race),0.156035556
+2012,"White , not Hispanic or Latino",0.098323166
+2013,"White , not Hispanic or Latino",0.105186986
+2014,"White , not Hispanic or Latino",0.107469932
+2015,"White , not Hispanic or Latino",0.106020127
+2016,"White , not Hispanic or Latino",0.101448364
+2017,"White , not Hispanic or Latino",0.095301983
+2018,"White , not Hispanic or Latino",0.088680769
+2019,"White , not Hispanic or Latino",0.084009007
