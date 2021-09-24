@@ -1,13 +1,13 @@
 DG_GOAL: >-
   Goal 1: End poverty in all its forms everywhere
 SDG_TARGET: >-
-  Target 1.2: By 2030, reduce at least by half the proportion of adults and children of all ages living in poverty 
-  in all its dimensions according to national definitions
-  
-    ##Regional Context:
+  ##Regional Context:
     At the adoption of the U.N SDGs in 2015, 14.5% of the population in San Diego Lived below the U.S poverty line. 
     In order to achieve the target, the region needs to reduce the poverty rate to 7.25% of the population.
-  
+    
+  Target 1.2: By 2030, reduce at least by half the proportion of adults and children of all ages living in poverty 
+  in all its dimensions according to national definitions
+
 SDG_INDICATOR: >-
   Indicator 1.2.1: Proportion of population living below the national poverty line, by demographic characteristic  
   
