@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: 'Data provided by the U.S. Census American Community Survey 2019 5-Year Estimates'
-embedded_feature_html: '<iframe width="1123.4" height="800" title="Proportion of the Population At or Below 50% of the Poverty Line, by Census Tract" src="https://jjzajdel.github.io/Indicator_1-1-1/" frameborder="0" allowFullScreen="true"></iframe>'
+embedded_feature_html: '<iframe width="900" height="400" title="Proportion of the Population At or Below 50% of the Poverty Line, by Census Tract" src="https://jjzajdel.github.io/Indicator_1-1-1/" frameborder="0" allowFullScreen="true"></iframe>'
 embedded_feature_tab_title: 'Map'
 embedded_feature_title: 'Proportion of the Population At or Below 50% of the Poverty Line, by Census Tract'
 embedded_feature_url: ''
