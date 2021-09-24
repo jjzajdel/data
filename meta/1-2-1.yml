@@ -11,10 +11,11 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   Indicator 1.2.1: Proportion of population living below the national poverty line, by demographic characteristic  
   
-Map_Information: >- The small blue button in the upper right hand corner of the map allows layers for each demographic 
-characteristic to be turned on or off. The region is divided into census tracts with each tract having its own poverty 
-rate estimate. Blue colored tracts have achieved the goal of a poverty rate of 7.25% or less. Uncolor census tracts are
-where data is not currently available. 
+Map_Information: >- 
+  The small blue button in the upper right hand corner of the map allows layers for each demographic 
+  characteristic to be turned on or off. The region is divided into census tracts with each tract having its own poverty 
+  rate estimate. Blue colored tracts have achieved the goal of a poverty rate of 7.25% or less. Uncolor census tracts are
+  where data is not currently available. 
 
 META_LAST_UPDATE: >- 
 CONTACT_ORGANISATION: >- 
