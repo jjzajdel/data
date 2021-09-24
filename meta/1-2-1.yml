@@ -3,35 +3,33 @@ DG_GOAL: >-
 SDG_TARGET: >-
   Target 1.2: By 2030, reduce at least by half the proportion of adults and children of all ages living in poverty 
   in all its dimensions according to national definitions
+  
+  ##Regional Context:
+  At the adoption of the U.N SDGs in 2015, 14.5% of the population in San Diego Lived below the U.S poverty line. 
+  In order to achieve the target, the region needs to reduce the poverty rate to 7.25$=% of the population.
+  
 SDG_INDICATOR: >-
   Indicator 1.2.1: Proportion of population living below the national poverty line, by demographic characteristic  
-SDG_SERIES_DESCR: >-
+  
+Map_Information: >- The small blue button in the upper right hand corner of the map allows layers for each demographic 
+characteristic to be turned on or off. The region is divided into census tracts with each tract having its own poverty 
+rate estimate. Blue colored tracts have achieved the goal of a poverty rate of 7.25% or less. Uncolor census tracts are
+where data is not currently available. 
+
 META_LAST_UPDATE: >- 
-  9/15/2021
 CONTACT_ORGANISATION: >- 
 CONTACT_NAME: >- 
 
 CONTACT_PHONE: >- 
   
 CONTACT_EMAIL: >-
-  jzaj@sandag.org
+  
 STAT_CONC_DEF: >- 
   ## Definition:
-    The national poverty rate is the percentage of the total population living below the national poverty line.
-    The rural poverty rate is the percentage of the rural population living below the national poverty line (or
-    in cases where a separate, rural poverty line is used, the rural poverty line). Urban poverty rate is the
-    percentage of the urban population living below the national poverty line (or in cases where a separate,
-    urban poverty line is used, the urban poverty line)
-    
-  ## Concepts:
-  
-  Poverty Line: Threshold below which individuals
-  in the reference population are considered poor and above which they are
-  considered non-poor. The threshold is generally defined as the per-capita
-  monetary requirements an individual needs to afford the purchase of a basic
-  bundle of goods and services.
-  
-UNIT_MEASURE: >-
+    The U.S poverty rate is the percentage of the total population living below the U.S poverty line. As of 2021, 
+    the U.S poverty line is an annual income of $12,880 per individual or $26,500 for a family of four. Further 
+    information on this indicator can be found here https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf
+ 
 CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
 COLL_METHOD: >-
