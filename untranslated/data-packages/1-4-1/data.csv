@@ -1,1 +1,97 @@
-Year,Value
+Year,Demographic Characteristics,Area,Value
+2012,Total,San Diego,0.139
+2013,Total,Chula Vista,0.144
+2014,Total,San Macro,0.147
+2015,Total,County of San Diego,0.145
+2016,Total,San Diego,0.14
+2017,Total,Chula Vista,0.133
+2018,Total,San Macro,0.125
+2019,Total,County of San Diego,0.116
+2012,Male,San Diego,0.13
+2013,Male,Chula Vista,0.137
+2014,Male,San Macro,0.139
+2015,Male,County of San Diego,0.135
+2016,Male,San Diego,0.131
+2017,Male,Chula Vista,0.124
+2018,Male,San Macro,0.116
+2019,Male,County of San Diego,0.107
+2012,Female,San Diego,0.147
+2013,Female,Chula Vista,0.152
+2014,Female,San Macro,0.155
+2015,Female,County of San Diego,0.154
+2016,Female,San Diego,0.149
+2017,Female,Chula Vista,0.142
+2018,Female,San Macro,0.134
+2019,Female,County of San Diego,0.124
+2012,White,San Diego,0.131
+2013,White,Chula Vista,0.136
+2014,White,San Macro,0.138
+2015,White,County of San Diego,0.137
+2016,White,San Diego,0.132
+2017,White,Chula Vista,0.126
+2018,White,San Macro,0.118
+2019,White,County of San Diego,0.11
+2012,Black or African American,San Diego,0.204
+2013,Black or African American,Chula Vista,0.209
+2014,Black or African American,San Macro,0.212
+2015,Black or African American,County of San Diego,0.204
+2016,Black or African American,San Diego,0.201
+2017,Black or African American,Chula Vista,0.199
+2018,Black or African American,San Macro,0.195
+2019,Black or African American,County of San Diego,0.189
+2012,American Indian and Alaska Native,San Diego,0.208
+2013,American Indian and Alaska Native,Chula Vista,0.192
+2014,American Indian and Alaska Native,San Macro,0.185
+2015,American Indian and Alaska Native,County of San Diego,0.187
+2016,American Indian and Alaska Native,San Diego,0.202
+2017,American Indian and Alaska Native,Chula Vista,0.204
+2018,American Indian and Alaska Native,San Macro,0.172
+2019,American Indian and Alaska Native,County of San Diego,0.165
+2012,Asian,San Diego,0.108
+2013,Asian,Chula Vista,0.11
+2014,Asian,San Macro,0.112
+2015,Asian,County of San Diego,0.111
+2016,Asian,San Diego,0.107
+2017,Asian,Chula Vista,0.103
+2018,Asian,San Macro,0.102
+2019,Asian,County of San Diego,0.01
+2012,Native Hawaiian and Other Pacific Islander,San Diego,0.13
+2013,Native Hawaiian and Other Pacific Islander,Chula Vista,0.15
+2014,Native Hawaiian and Other Pacific Islander,San Macro,0.167
+2015,Native Hawaiian and Other Pacific Islander,County of San Diego,0.141
+2016,Native Hawaiian and Other Pacific Islander,San Diego,0.146
+2017,Native Hawaiian and Other Pacific Islander,Chula Vista,0.129
+2018,Native Hawaiian and Other Pacific Islander,San Macro,0.104
+2019,Native Hawaiian and Other Pacific Islander,County of San Diego,0.137
+2012,Some other race,San Diego,0.224
+2013,Some other race,Chula Vista,0.242
+2014,Some other race,San Macro,0.25
+2015,Some other race,County of San Diego,0.238
+2016,Some other race,San Diego,0.231
+2017,Some other race,Chula Vista,0.215
+2018,Some other race,San Macro,0.197
+2019,Some other race,County of San Diego,0.165
+2012,Two or more races,San Diego,0.128
+2013,Two or more races,Chula Vista,0.141
+2014,Two or more races,San Macro,0.144
+2015,Two or more races,County of San Diego,0.14
+2016,Two or more races,San Diego,0.143
+2017,Two or more races,Chula Vista,0.138
+2018,Two or more races,San Macro,0.126
+2019,Two or more races,County of San Diego,0.108
+2012,Hispanic or Latino origin (of any race),San Diego,0.201
+2013,Hispanic or Latino origin (of any race),Chula Vista,0.205
+2014,Hispanic or Latino origin (of any race),San Macro,0.206
+2015,Hispanic or Latino origin (of any race),County of San Diego,0.202
+2016,Hispanic or Latino origin (of any race),San Diego,0.196
+2017,Hispanic or Latino origin (of any race),Chula Vista,0.187
+2018,Hispanic or Latino origin (of any race),San Macro,0.174
+2019,Hispanic or Latino origin (of any race),County of San Diego,0.156
+2012,"White , not Hispanic or Latino",San Diego,0.098
+2013,"White , not Hispanic or Latino",Chula Vista,0.105
+2014,"White , not Hispanic or Latino",San Macro,0.107
+2015,"White , not Hispanic or Latino",County of San Diego,0.106
+2016,"White , not Hispanic or Latino",San Diego,0.101
+2017,"White , not Hispanic or Latino",Chula Vista,0.095
+2018,"White , not Hispanic or Latino",San Macro,0.089
+2019,"White , not Hispanic or Latino",County of San Diego,0.084

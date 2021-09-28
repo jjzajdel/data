@@ -11,13 +11,49 @@
       "schema": {
         "fields": [
           {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Chula Vista",
+                "County of San Diego",
+                "San Diego",
+                "San Macro"
+              ]
+            },
+            "title": "Area"
+          },
+          {
+            "name": "Demographic Characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "American Indian and Alaska Native",
+                "Asian",
+                "Black or African American",
+                "Female",
+                "Hispanic or Latino origin (of any race)",
+                "Male",
+                "Native Hawaiian and Other Pacific Islander",
+                "Some other race",
+                "Total",
+                "Two or more races",
+                "White",
+                "White , not Hispanic or Latino"
+              ]
+            },
+            "title": "Demographic Characteristics"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

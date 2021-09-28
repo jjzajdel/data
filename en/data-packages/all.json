@@ -88,6 +88,66 @@
       "title": "13-2-2"
     },
     {
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Chula Vista",
+                "County of San Diego",
+                "San Diego",
+                "San Macro"
+              ]
+            },
+            "title": "Area"
+          },
+          {
+            "name": "Demographic Characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "American Indian and Alaska Native",
+                "Asian",
+                "Black or African American",
+                "Female",
+                "Hispanic or Latino origin (of any race)",
+                "Male",
+                "Native Hawaiian and Other Pacific Islander",
+                "Some other race",
+                "Total",
+                "Two or more races",
+                "White",
+                "White , not Hispanic or Latino"
+              ]
+            },
+            "title": "Demographic Characteristics"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of population living in households with access to basic services"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -420,30 +480,6 @@
         ]
       },
       "title": "Aid for Trade commitments and disbursements"
-    },
-    {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of population living in households with access to basic services"
     },
     {
       "path": "3-1-2/data.csv",
