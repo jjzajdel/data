@@ -47,7 +47,7 @@ jobs:
         CLEAN: true
     - name: Rebuild site
       run: |
-        curl -X POST https://api.github.com/repos/jjzajdel/site/dispatches \
+        curl -X POST https://api.github.com/repos/sandag/SDG/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-staging"}'
