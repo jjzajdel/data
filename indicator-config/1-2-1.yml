@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: 'Data Source: US Census American Community Survey 5-Year Estimate 2019'
-embedded_feature_html: <iframe width="1123.4" height="800" title="Proportion in Poverty in San Diego" srcdoc="/maps/indicator_1_2_1.html" frameborder="0" allowFullScreen="true"></iframe>'
+embedded_feature_html: <iframe width="1123.4" height="800" title="Proportion in Poverty in San Diego" srcdoc='/maps/indicator_1_2_1.html' frameborder="0" allowFullScreen="true"></iframe>'
 embedded_feature_tab_title: 'Map'
 embedded_feature_title: 'Proportion of the Population in Poverty in San Diego by Census Tract'
 embedded_feature_url: ''
