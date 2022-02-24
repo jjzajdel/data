@@ -13,7 +13,7 @@ embedded_feature_html: <iframe
   width="1123.4" 
   height="800" 
   title="Proportion in Poverty in San Diego" 
-  srcdoc="maps/indicator_1_2_1.html" 
+  srcdoc='maps/indicator_1_2_1.html' 
   frameborder="0" 
   allowFullScreen="true"></iframe>'
 embedded_feature_tab_title: 'Map'
